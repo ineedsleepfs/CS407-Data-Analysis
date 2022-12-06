@@ -1,0 +1,2 @@
+1. To see all the collected data run the runner.py.
+2. To see the standard deviation run the data_analysis.py file
